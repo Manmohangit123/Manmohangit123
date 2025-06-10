@@ -59,7 +59,6 @@
 ### 📈 Analytics
 
 [![Visit Count](https://visitcount.itsvg.in/api?id=Manmohangit123&label=Profile%20Views&color=2&icon=0&pretty=true)](https://visitcount.itsvg.in)  
-[![wakatime](https://wakatime.com/badge/user/2a09004f-d595-42b7-85dd-817e5de97c27.svg)](https://wakatime.com/@2a09004f-d595-42b7-85dd-817e5de97c27)
 
 ---
 
