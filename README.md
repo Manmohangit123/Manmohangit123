@@ -53,12 +53,8 @@
 [![Email](https://img.shields.io/badge/Email-brown?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kancherlamanmohan9@gmail.com)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ManmohanKa33396)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manmohan-kancherla/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kancherlamanmohan_07/)
 
----
-
-### 📈 Analytics
-
-[![Visit Count](https://visitcount.itsvg.in/api?id=Manmohangit123&label=Profile%20Views&color=2&icon=0&pretty=true)](https://visitcount.itsvg.in)  
 
 ---
 
