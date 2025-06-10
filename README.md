@@ -12,7 +12,6 @@
 
 ### 🧠 About Me
 
-- Engineering professional with a passion for Artificial Intelligence and intelligent systems.
 - Specialized in developing interactive, responsive UIs with a focus on user experience.
 - Built multiple full-stack web applications using the MERN stack.
 - Strong problem-solving mindset with consistent practice in data structures and algorithms.
