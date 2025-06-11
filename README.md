@@ -15,22 +15,23 @@
 - Specialized in developing interactive, responsive UIs with a focus on user experience.
 - Built multiple full-stack web applications using the MERN stack.
 - Strong problem-solving mindset with consistent practice in data structures and algorithms.
-- Adept at transforming ideas into real-world solutions using modern tech stacks.
+- Adapt at transforming ideas into real-world solutions using modern tech stacks.
+- I have good interest in mobile application development also.
 
 ---
 
 #### 🔬 Machine Learning
-- Machine Learning (CNNs, Transformers, RNNs)  
+- Machine Learning (Cofusion matrix,SVM,Decision Tree)  
 - Project Experience: heart_strokepredication, spam_mail_prediction  
 #### 🎨 Frontend Development
 ![](https://skillicons.dev/icons?i=html,css,js,node.js)
-- Modern design systems with Tailwind, Bootstrap  
+- Modern design systems with HTML,CSS and JS 
 - UI Widgets, Dashboards, Portfolios, and Progressive Web Apps  
 
 
 
 #### 📈 Data Structures & Algorithms
-- Solved 80+ LeetCode problems with optimized solutions  
+- Solved 90+ LeetCode problems with optimized solutions  
 - Applied DSA concepts in real-time app development  
 - Comfortable with Arrays, Strings, Trees
 
